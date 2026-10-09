@@ -37,7 +37,7 @@
     "annal": "^0.2.1",
     "eslint": "^10.11.0",
     "husky": "^9.1.7",
-    "prettier": "^3.9.6",
+    "prettier": "^3.9.8",
     "prettier-plugin-sort": "^1.1.1",
     "typescript-eslint": "^8.70.0"
   },
